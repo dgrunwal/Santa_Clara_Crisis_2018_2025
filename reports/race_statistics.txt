@@ -1,0 +1,80 @@
+Race Statistics Report for Santa Clara County 2018-2025
+============================================================
+
+Total Records: 1223
+
+Race: White
+  Count: 596
+  Percentage: 48.73%
+  Average Age: 54.4
+------------------------------------------------------------
+Race: Asian
+  Count: 297
+  Percentage: 24.28%
+  Average Age: 45.6
+------------------------------------------------------------
+Race: Hispanic/Latino
+  Count: 235
+  Percentage: 19.22%
+  Average Age: 38.4
+------------------------------------------------------------
+Race: BlackAfricanAmerican
+  Count: 29
+  Percentage: 2.37%
+  Average Age: 37.0
+------------------------------------------------------------
+Race: Other
+  Count: 28
+  Percentage: 2.29%
+  Average Age: 30.5
+------------------------------------------------------------
+Race: OtherPacificIslander
+  Count: 14
+  Percentage: 1.14%
+  Average Age: 40.1
+------------------------------------------------------------
+Race: Asian; White
+  Count: 7
+  Percentage: 0.57%
+  Average Age: 36.7
+------------------------------------------------------------
+Race: Pacific Islander / Native Hawaiian
+  Count: 3
+  Percentage: 0.25%
+  Average Age: 46.3
+------------------------------------------------------------
+Race: Unknown
+  Count: 3
+  Percentage: 0.25%
+  Average Age: 31.7
+------------------------------------------------------------
+Race: Hispanic/Latino; White
+  Count: 3
+  Percentage: 0.25%
+  Average Age: 38.0
+------------------------------------------------------------
+Race: American Indian
+  Count: 3
+  Percentage: 0.25%
+  Average Age: 37.7
+------------------------------------------------------------
+Race: American Indian / Alaskan Native
+  Count: 2
+  Percentage: 0.16%
+  Average Age: 50.5
+------------------------------------------------------------
+Race: BlackAfricanAmerican; Hispanic/Latino; White
+  Count: 1
+  Percentage: 0.08%
+  Average Age: 51.0
+------------------------------------------------------------
+Race: American Indian / Alaskan Native; Asian; Hispanic/Latino; White
+  Count: 1
+  Percentage: 0.08%
+  Average Age: 23.0
+------------------------------------------------------------
+Race: Hispanic/Latino; Other; Pacific Islander / Native Hawaiian; White
+  Count: 1
+  Percentage: 0.08%
+  Average Age: 13.0
+------------------------------------------------------------

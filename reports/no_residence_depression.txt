@@ -1,0 +1,1 @@
+Case Number,Case Status,Manner of Death,Age,Race,Gender,Death Date,Death City,Death Zip,Resident City,Resident Zip,Incident Location,Incident City,Incident Zip,Cause of Death,Other Significant Condition,Latitude,Longitude

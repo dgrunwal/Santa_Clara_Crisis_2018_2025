@@ -1,0 +1,11 @@
+Year and Death Counts:
+Year: 2018, Death Count: 150
+Year: 2019, Death Count: 169
+Year: 2020, Death Count: 166
+Year: 2021, Death Count: 154
+Year: 2022, Death Count: 181
+Year: 2023, Death Count: 138
+Year: 2024, Death Count: 168
+Year: 2025, Death Count: 97
+
+Total Death Count: 1223

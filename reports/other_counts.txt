@@ -1,0 +1,321 @@
+Other Significant Conditions (Highest to Lowest):
+
+Condition: None, Count: 636
+Condition: N/A, Count: 193
+Condition: Depression, Count: 21
+Condition: Major depressive disorder, Count: 16
+Condition: Bipolar disorder, Count: 6
+Condition: Depression; anxiety, Count: 6
+Condition: History of depression, Count: 5
+Condition: Reported depression, Count: 4
+Condition: none, Count: 4
+Condition: Depression with prior suicidal ideation, Count: 3
+Condition: Adjustment disorder with mixed disturbance of emotions and conduct, Count: 3
+Condition: Insomnia, Count: 3
+Condition: Bipolar 1 disorder, Count: 3
+Condition: Unspecified psychiatric disorder, Count: 2
+Condition: Depression; post-traumatic stress disorder, Count: 2
+Condition: Schizophrenia, Count: 2
+Condition: Depressive disorder, Count: 2
+Condition: Major depressive disorder; anxiety, Count: 2
+Condition: Clinical depression, Count: 2
+Condition: Schizoaffective disorder, Count: 2
+Condition: Chronic obstructive pulmonary disease, Count: 2
+Condition: Clinical history of depression, Count: 2
+Condition: Metastatic prostate cancer, Count: 2
+Condition: No, Count: 2
+Condition: Mood disorder; not otherwise specified, Count: 2
+Condition: Chronic ethanol use, Count: 2
+Condition: Reported history of depression, Count: 2
+Condition: Hypertension; class 1 obesity; depression, Count: 1
+Condition: Severe Obesity, Count: 1
+Condition: Mood disorder with suicidal ideation, Count: 1
+Condition: Attention-Deficit/Hyperactivity Disorder, Count: 1
+Condition: Major depressive disorder; recurrent severe; with prior suicide attempt(s) and suicidal ideation, Count: 1
+Condition: Depression and anxiety; prior reported suicide attempts, Count: 1
+Condition: Major depressive disorder with recent suicide attempts; anxiety disorder; antiphospholipid syndrome complicated by chronic lower extremity wounds; lupus, Count: 1
+Condition: Hypertension; diabetes mellitus type II (insulin dependent) with diabetic nephropathy; hepatitis C; squamous cell carcinoma of larynx; bipolar disorder, Count: 1
+Condition: Combined adverse effects of oxycodone and diazepam, Count: 1
+Condition: Major depressive disorder; Bipolar 1 disorder, Count: 1
+Condition: Anxiety disorder; major depressive disorder, Count: 1
+Condition: Dilated cardiomyopathy; probable psychosis in the setting of stimulant use, Count: 1
+Condition: Anxiety, Count: 1
+Condition: Metastatic small cell carcinoma to include tension hydrothorax, Count: 1
+Condition: Bipolar disorder type II complicated by suicidal ideation, Count: 1
+Condition: Self-reported abuse at home (suicide note), Count: 1
+Condition: Substance induced mood disorder with recent self-inflicted stab wounds of chest, Count: 1
+Condition: Reported bipolar disorder and depression, Count: 1
+Condition: Reportedly depression (COVID-19 pandemic related) with suicidal ideations, Count: 1
+Condition: Chronic kidney disease; Diabetes Mellitus; Hypertension and Cardiac dysrhythmia, Count: 1
+Condition: Recurrent Major Depressive Disorder; Schizoaffective Disorder; Depressive Type, Count: 1
+Condition: Attention deficit/Hyperactivity disorder; legal stress (criminal), Count: 1
+Condition: History of postpartum depression, Count: 1
+Condition: Ethanol and polysubstance use disorder; major depressive disorder with prior suicidal ideation; anxiety hypertension; class 1 obesity, Count: 1
+Condition: Major depressive disorder with prior suicidal ideation; generalized anxiety disorder; post-traumatic stress disorder, Count: 1
+Condition: Depression; recent motor vehicle accident with no injury, Count: 1
+Condition: Schizophrenia; coronary artery disease; class 3 obesity, Count: 1
+Condition: Major depressive disorder; generalized anxiety disorder; substance use disorder; post-traumatic stress disorder, Count: 1
+Condition: Neuropsychiatric disorder(s) and mild cognitive impairment; per report, Count: 1
+Condition: Incised wounds of the neck and thigh, Count: 1
+Condition: Bipolar disorder; obesity, Count: 1
+Condition: Hypertensive cardiovascular disease; sleep apnea; class 1 obesity, Count: 1
+Condition: Alcohol and substance dependence; multiple stressors to include financial stress; unspecified mental illness, Count: 1
+Condition: Self-reported history of prior suicide attempt (per suicide note), Count: 1
+Condition: Prior pontine stroke due to hypertension and methamphetamine use with residual right-sided hemiparesis, Count: 1
+Condition: Schizoaffective disorder; bipolar type; with recent psychiatric hold; bipolar disorder; coronary artery disease; hypertensive cardiovascular disease, Count: 1
+Condition: Reported history of bipolar disorder, Count: 1
+Condition: Generalized anxiety disorder; borderline personality disorder, Count: 1
+Condition: Atrial fibrillation on anticoagulation therapy; mitral valve regurgitation; multiple squamous cell and basal cell carcinomas, Count: 1
+Condition: Bipolar disorder; arteriosclerotic cardiovascular disease; cerebral vascular accident/stroke; probable hematologic malignancy, Count: 1
+Condition: Incised wounds of wrists; major depressive disorder with psychotic features; gender dysphoria; hypertension, Count: 1
+Condition: Anxiety; Depression, Count: 1
+Condition: Invasive poorly differentiated squamous cell carcinoma of right hypopharynx, Count: 1
+Condition: Alcoholic cirrhosis; compete heart block; prior stroke; depressive disorder unspecified; hypertension; class 2 obesity, Count: 1
+Condition: Reported chronic back pain, Count: 1
+Condition: Reported physical health stress, Count: 1
+Condition: Hypertension and paroxysmal atrial fibrillation, Count: 1
+Condition: Recent suicidal ideation, Count: 1
+Condition: Depression with anxiety, Count: 1
+Condition: History of depression and anxiety, Count: 1
+Condition: Reported depressionwith prior verbalization of wanting to take own life, Count: 1
+Condition: Severe bipolar disorder with psychotic features, Count: 1
+Condition: Coronary artery disease; hypertension; chronic ethanol use, Count: 1
+Condition: Acute myeloid leukemia; generalized anxiety disorder; panic disorder; atherosclerotic cardiovascular disease; obesity; obstructive sleep apnea, Count: 1
+Condition: Anxiety disorder; depression with history of suicidal attempt/ideation, Count: 1
+Condition: Unspecified depressive disorder; Alcohol use disorder; Atherosclerotic cardiovascular disease, Count: 1
+Condition: Major depressive disorder; anxiety disorder, Count: 1
+Condition: Schizophrenia; prior suicide attempt(s), Count: 1
+Condition: Recent diagnosis of neuroendocrine tumor metastatic to liver, Count: 1
+Condition: Adjustment disorder with disturbance of conduct, Count: 1
+Condition: Bipolar disorder with history of suicidal ideation(s), Count: 1
+Condition: Anxiety; depression, Count: 1
+Condition: Suicidal ideation, Count: 1
+Condition: Depression with prior suicide attempt; post-traumatic stress disorder, Count: 1
+Condition: Depression; suicidal ideations; anxiety, Count: 1
+Condition: Superficial perforating gunshot wound of the scrotum, Count: 1
+Condition: Depression; bipolar disorder, Count: 1
+Condition: Schizoaffective disorder; mood disorder(s), Count: 1
+Condition: Multiple reported acute stressors; reported suicidal ideations, Count: 1
+Condition: Depression; hypertension; type 2 diabetes mellitus; asthma; hypothyroidism, Count: 1
+Condition: Autism spectrum disorder, Count: 1
+Condition: Huntington disease; depression with prior suicide attempts; post-traumatic stress disorder; anxiety disorder, Count: 1
+Condition: Depressed mood; suicidal ideation in the setting of recent bereavement; hypertensive and atherosclerotic cardiovascular disease and class 1 obesity, Count: 1
+Condition: Anxiety and depression, Count: 1
+Condition: None Listed, Count: 1
+Condition: Incised wounds of wrist and neck; schizoaffective disorder, Count: 1
+Condition: Depression disorder; anxiety, Count: 1
+Condition: History of bipolar disorder, Count: 1
+Condition: Atherosclerotic cardiovascular disease; class 1 obesity; history of suicidal ideations, Count: 1
+Condition: Clinically diagnosed general anxiety disorder and adjustment disorder with mixed anxiety and depressed mood, Count: 1
+Condition: Adjustment disorder with mixed anxiety and depressed mood, Count: 1
+Condition: Recurrent severe major depressive disorder with psychotic features; recent suicide ideation, Count: 1
+Condition: Prior suicide attempts and suicidal ideation; adjustment disorder with mixed anxiety and depressed mood, Count: 1
+Condition: Post-polio syndrome; Prolonged grief disorder associated with death of spouse (January 2022), Count: 1
+Condition: Recurrent major depression disorder, Count: 1
+Condition: Recurrent breast cancer; major depressive disorder; hypertensive and atherosclerotic cardiovascular disease, Count: 1
+Condition: Severe major depressive disorder with prior suicide attempts; alcohol use disorder; hypertension; class 2 obesity, Count: 1
+Condition: Depression with suicidal ideations; amphetamine use disorder, Count: 1
+Condition: Paranoid schizophrenia; hypertensive cardiovascular disease; class 3 obesity, Count: 1
+Condition: Major depressive disorder; conversion disorder, Count: 1
+Condition: History of depression due to chronic health conditions, Count: 1
+Condition: Severe major depressive disorder with suicidal ideation and prior suicide attempts; obsessive-compulsive disorder, Count: 1
+Condition: History of suicide attempts; Schizoaffective disorder (depressive type); panic disorder; class 2 obesity, Count: 1
+Condition: Depression; anxiety disorder; unspecified episodic mood disorder; hypertensive cardiovascular disease, Count: 1
+Condition: Traumatic brain injury; right lung mass, Count: 1
+Condition: Hypertensive and atherosclerotic cardiovascular disease; type 2 diabetes mellitus, Count: 1
+Condition: Bipolar disorder (unspecified type); multiple life stressors; family history of mental illness, Count: 1
+Condition: Generalized anxiety disorder; major depressive disorder; insomnia, Count: 1
+Condition: Class 1 obesity; reported chronic ethanol use; clinically diagnosed major depressive disorder, Count: 1
+Condition: Recent suicidal ideation; adjustment disorder with mixed disturbance of emotions and conduct; Autism spectrum disorder, Count: 1
+Condition: Prior stroke; hypertension; hyperlipidemia; atherosclerotic cardiovascular disease, Count: 1
+Condition: Clinically diagnosed schizoaffective disorder, Count: 1
+Condition: Severe major depressive disorder with suicidal ideation; methamphetamine and ethanol toxicity, Count: 1
+Condition: Left ventricular hypertrophy, Count: 1
+Condition: Schizoaffective disorder; multiple suicide attempts, Count: 1
+Condition: Schizoaffective disorder; bipolar type; post-traumatic stress disorder, Count: 1
+Condition: Bipolar I disorder with depression, Count: 1
+Condition: Major depressive disorder; recent suicidal ideations; recent suicide attempt (08/02/2022); work stress, Count: 1
+Condition: Bipolar disorder; panic disorder, Count: 1
+Condition: Adjustment disorder with mixed disturbance of emotions and conduct; depressive disorder, Count: 1
+Condition: Recurrent major depressive disorder with prior suicide attempts, Count: 1
+Condition: Bipolar type schizoaffective disorder with prior suicide attempt; unspecified personality disorder; atherosclerotic cardiovascular disease; class 3 obesity, Count: 1
+Condition: Major depressive disorder with recent suicide ideation; adjustment disorder with mixed anxiety and depressed mood, Count: 1
+Condition: Schizoaffective disorder; bipolar type with multiple prior episodes of suicidal ideation, Count: 1
+Condition: Acute ethanol intoxication, Count: 1
+Condition: schizoaffective disorder; generalized anxiety disorder; obsessive compulsive disorder, Count: 1
+Condition: Anxiety disorder; history of depression and recent suicidal ideation, Count: 1
+Condition: Generalized anxiety disorder; severe alcohol use disorder; adjustment disorder with depressed mood, Count: 1
+Condition: Anxiety and adjustment disorder with history of suicidal ideation, Count: 1
+Condition: Unspecified psychosis with suicide attempt (07/08/2022), Count: 1
+Condition: Cardiac dysrhythmia; chronic alcohol abuse with complications, Count: 1
+Condition: Self-reported anxiety and depression, Count: 1
+Condition: Neuropsychiatric disorders, Count: 1
+Condition: Psychiatric disorder, Count: 1
+Condition: Depression and anxiety, Count: 1
+Condition: Cirrhosis of liver, Count: 1
+Condition: Bipolar I psychiatric disorder and multiple prior suicide attempts, Count: 1
+Condition: Multiple stressors related to the COVID-19 pandemic, Count: 1
+Condition: Schizophrenia and clinical depression, Count: 1
+Condition: Hypertensive cardiovascular disease; chronic ethanol abuse, Count: 1
+Condition: Fentanyl toxicity, Count: 1
+Condition: Major depressive disorder; alcohol use disorder; focally severe coronary artery disease, Count: 1
+Condition: Major depressive disorder; recurrent episodes, Count: 1
+Condition: Chronic Ethanol use with Ketoacidosis; sequelae of remote surgery of neurofibroma of the T12-L1 spine, Count: 1
+Condition: Type 1 diabetes mellitus; major depressive disorder with prior suicide attempts; bipolar disorder; schizophrenia, Count: 1
+Condition: Depression; Generalized anxiety disorder, Count: 1
+Condition: Major depressive disorder with prior suicide attempts, Count: 1
+Condition: Clinically diagnosed mood disorder, Count: 1
+Condition: Coronary artery disease, Count: 1
+Condition: Major depressive disorder; recurrent; hypertensive cardiovascular disease, Count: 1
+Condition: major depressive disorder, Count: 1
+Condition: Bipolar with psychotic features; prior episodes of suicidal ideation, Count: 1
+Condition: Adjustment disorder with anxiety; depression; atrial fibrillation; fatty liver disease, Count: 1
+Condition: Generalized and social anxiety disorder; depressive disorder, Count: 1
+Condition: Anxiety disorder; Graves' Hyperthyroidism; Hypertension, Count: 1
+Condition: Asthma with chronic obstructive pulmonary disease; type 2 diabetes mellitus; hypertension; class 2 obesity, Count: 1
+Condition: History of chronic pain due to multiple comorbidities, Count: 1
+Condition: Major depressive disorder; chronic pain; generalized anxiety disorder; hypertension; atherosclerotic cardiovascular disease, Count: 1
+Condition: Type 1 Bipolar Disorder; Major Depressive Disorder, Count: 1
+Condition: Hypertensive and Atherosclerotic Cardiovascular disease; clinical history of Schizophrenia; anxiety; and bipolar disorder, Count: 1
+Condition: Diabetes mellitus type 2, Count: 1
+Condition: Type 2 Diabetes Mellitus; Dural arteriovenous fistula/malformation; orthostatic hypotension, Count: 1
+Condition: Adjustment disorder with prior suicidal ideations; alcohol use disorder, Count: 1
+Condition: Adjustment disorder with mixed disturbance of emotions and conduct; history of attempted suicide, Count: 1
+Condition: Psychotic disorder not otherwise specified; Depression, Count: 1
+Condition: Anxiety; major depressive disorder; insomnia, Count: 1
+Condition: Acute liver injury due to acetaminophen toxicity; major depressive disorder; bipolar disorder; hypertension; atherosclerotic cardiovascular disease; history of stroke, Count: 1
+Condition: Depression; anxiety; insomnia; neurodegenerative disease; hypertensive cardiovascular disease, Count: 1
+Condition: Sharp force injury of abdomen (per report), Count: 1
+Condition: Hypertensive and Atherosclerotic Cardiovascular disease; type 2 Diabetes Mellitus, Count: 1
+Condition: Reported history of anxiety/depression, Count: 1
+Condition: Clinically diagnosed depression; prior hanging suicide attempt in 2022, Count: 1
+Condition: Depression with history of suicidal ideation, Count: 1
+Condition: Depressive disorder; unspecified, Count: 1
+Condition: Depression and anxiety with prior suicidal ideation, Count: 1
+Condition: Depression with recent suicide attempt; chronic obstructive pulmonary disease; pulmonary mycobacterium avium complex infection; chronic heart failure; hypertension; cachexia, Count: 1
+Condition: Depression associated with chronic medical conditions, Count: 1
+Condition: Bipolar II disorder; prior history of suicide attempt, Count: 1
+Condition: Clinical diagnosis of Parkinson's disease, Count: 1
+Condition: Reported history of attention deficit hyperactivity disorder, Count: 1
+Condition: Reported history of recent suicidal ideation, Count: 1
+Condition: Hypertension; chronic obstructive pulmonary disease, Count: 1
+Condition: Major depressive disorder with prior suicidal ideation; unspecified anxiety disorder, Count: 1
+Condition: Combined Zolpidem; ethanol and diphenhydramine toxicity, Count: 1
+Condition: History of depression; anxiety, Count: 1
+Condition: Bipolar affective disorder; prior psychosis; anxiety disorder, Count: 1
+Condition: Bipolar disorder and prior suicide ideations/attempts; per report, Count: 1
+Condition: Depressed mood and recent life stressors, Count: 1
+Condition: Fulminant liver failure due to acute hepatitis of uncertain etiology, Count: 1
+Condition: Schizophrenia; chronic paranoid type, Count: 1
+Condition: Major depressive disorder; recurrent; severe; with anxious distress and recent suicidal ideation, Count: 1
+Condition: Congestive heart failure; stage IV following lymphoma; hypertension; atherosclerotic cardiovascular disease; chronic kidney disease; chronic pain, Count: 1
+Condition: Major depressive disorder; generalized anxiety disorder, Count: 1
+Condition: Depression associated with recent diagnosis of invasive adenocarcinoma of colon; chronic ethanol use; iron deficiency anemia, Count: 1
+Condition: Bipolar disorder; major depressive disorder; substance use (ethanol and methampetamine), Count: 1
+Condition: Bipolar 1 Disorder with Recent DepressedEpisode, Count: 1
+Condition: Clinically diagnosed depression; anxiety and insomnia, Count: 1
+Condition: Depression; Anxiety, Count: 1
+Condition: On palliative/hospice care for complications of multiple myeloma, Count: 1
+Condition: Psychotic disorder; not otherwise specified, Count: 1
+Condition: Depression with multiple prior suicide attempts; anxiety; diabetes mellitus type 2; hypertension; hyperlipidemia, Count: 1
+Condition: Estazolam toxicity, Count: 1
+Condition: Adjustment disorder with mixed disturbance of emotions and conduct; depressive  disorder, Count: 1
+Condition: Intracranial atherosclerosis with prior thalamic stroke; hypertension; hyperlipidemia, Count: 1
+Condition: Recurrent severe major depressive disorder with history of suicidal ideation and prior suicide attempt, Count: 1
+Condition: Parkinsonism; unspecified type, Count: 1
+Condition: Anxiety and major depression, Count: 1
+Condition: Anxiety disorder; depression; previous suicide attempt, Count: 1
+Condition: Incised wounds of left wrist, Count: 1
+Condition: Major depressive disorder; generalized anxiety disorder; adjustment disorder with disturbance of conduct, Count: 1
+Condition: Chronic ethanol use with hepatic cirrhosis, Count: 1
+Condition: Pancreatic cancer; atherosclerotic cardiovascular disease, Count: 1
+Condition: Adjustment disorder with depressed mood; hypertension; hypercholesterolemia, Count: 1
+Condition: Depression; attention deficit/hyperactivity disorder, Count: 1
+Condition: Parkinson disease; atherosclerotic cardiovascular disease, Count: 1
+Condition: Severe major depressive disorder with anxious distress, Count: 1
+Condition: Reported probable borderline personality disorder, Count: 1
+Condition: Depression; recent diagnosis of neurodegenerative disease; dysphagia due to squamous cell carcinoma of tongue, Count: 1
+Condition: Post-traumatic stress disorder, Count: 1
+Condition: Hypertensive cardiovascular disease; severe obesity; multiple reported stressors to include financial stress, Count: 1
+Condition: Chronic obstructive pulmonary edema; systemic hypertension; diabetes mellitus, Count: 1
+Condition: Depression; prior suicidal ideation/attempt(s), Count: 1
+Condition: Merkel cell carcinoma, Count: 1
+Condition: Multiple sclerosis with spastic triplegia, Count: 1
+Condition: Reported tinnitus and insomnia, Count: 1
+Condition: Severe Recurrent Major Depressive Disorder; Posttraumatic Stress Disorder; Panic Disorder, Count: 1
+Condition: Schizoaffective disorder; reported history of previous suicide attempts, Count: 1
+Condition: Unspecified psychotic disorder; cocaine use disorder; history of huffing, Count: 1
+Condition: Major depressive disorder with prior suicidal ideation; generalized anxiety disorder, Count: 1
+Condition: Reported history of depression and suicidal ideations., Count: 1
+Condition: Suicidal ideations; acute mental health crisis, Count: 1
+Condition: Essential hypertension; atherosclerotic cardiovascular disease; prior aortic dissections, Count: 1
+Condition: Obesity; depressive type schizoaffective disorder, Count: 1
+Condition: Depression and prior suicidal ideation, Count: 1
+Condition: Depression disorder and unspecified psychotic disorder, Count: 1
+Condition: Depression with suicidal ideation, Count: 1
+Condition: Anxiety; per report, Count: 1
+Condition: Neuropsychiatric disorders with recent suicide attempts/ideations, Count: 1
+Condition: Depression (unspecified), Count: 1
+Condition: Neuropsychiatric disorder with previous suicide attempts, Count: 1
+Condition: Anxiety disorder and adjustment disorder with depressed mood following the VTA rail maintenance yard mass fatality incident, Count: 1
+Condition: History of Depression, Count: 1
+Condition: Major depressive disorder with suicidal ideation; Bipolar disorder; Generalized Anxiety disorder, Count: 1
+Condition: Clinically diagnosed depression; anxiety; and history of postpartum depression with prior suicide attempt by hanging in 2020, Count: 1
+Condition: Major depressive disorder recurrent severe; with history of prior suicide attempts and suicidal ideations, Count: 1
+Condition: Bipolar 1 disorder; self-reported history of depression; attention deficit hyperactivity disorder, Count: 1
+Condition: History of self-injurious behavior, Count: 1
+Condition: Sharp force injuries of abdomen and left wrist; bipolar disorder; schizoaffective disorder bipolar type, Count: 1
+Condition: Mild depression with social adjustment problems, Count: 1
+Condition: Major depressive disorder; combined effects of ethanol and gabapentin, Count: 1
+Condition: Breast cancer, Count: 1
+Condition: Hypertensive cardiovascular disease; type 2 diabetes mellitus; hypothyroidism, Count: 1
+Condition: Major depression, Count: 1
+Condition: Depressive disorder with prior suicide attempt(s); atherosclerotic cardiovascular disease; hypertension; chronic obstructive pulmonary disease, Count: 1
+Condition: Advanced age, Count: 1
+Condition: Posttraumatic stress disorder with suicidal ideation, Count: 1
+Condition: Bipolar 2 disorder with depressed episode, Count: 1
+Condition: Major depressive disorder; insomnia, Count: 1
+Condition: Alcohol use disorder, Count: 1
+Condition: Incised wounds of the wrist; huntington's disease, Count: 1
+Condition: Bipolar disorder; generalized anxiety disorder, Count: 1
+Condition: Chronic ethanol use; pulmonary emphysema; atherosclerotic cardiovascular disease, Count: 1
+Condition: Major depressive disorder with psychotic features; generalized anxiety disorder; schizoaffective disorder bipolar type, Count: 1
+Condition: Schizoaffective disorder; depressive type, Count: 1
+Condition: Anxiety; depression; post-traumatic stress disorder; insomnia, Count: 1
+Condition: Anxiety disorder; depressive disorder; attention-deficit/hyperactivity disorder, Count: 1
+Condition: Major depressive disorder; severe; recurrent; with suicidal ideation and priorsuicide attempts; Generalized anxiety disorder; Bipolar disorder, Count: 1
+Condition: Recurrent major depressive disorder; anxiety disorder, Count: 1
+Condition: Mixed prescription drug intoxication (ethanol; acetaminophen; clonazepam; hydrocodone; doxepin; diphenhydramine; and cyclobenzaprine), Count: 1
+Condition: Protein S deficiency on anticoagulant therapy, Count: 1
+Condition: Schizophrenia; major depressive disorder; generalized anxiety disorder, Count: 1
+Condition: Schizophrenia and stimulant use disorder with prior suicide attempts, Count: 1
+Condition: Attention-deficit/hyperactivity disorder; major depressive disorder; moderate polysubstance use disorder, Count: 1
+Condition: Depression with history of suicidal ideation and suicide attempts, Count: 1
+Condition: Essential hypertension; atherosclerotic cardiovascular disease; emphysema; class 1 obesity, Count: 1
+Condition: Depression/anxiety, Count: 1
+Condition: Guillain Barre syndrome; metastatic melanoma; anxiety; depression, Count: 1
+Condition: Unspecified psychotic disorder; recent suicidal ideation and prior suicide attempts, Count: 1
+Condition: Depressive disorder; early onset Alzheimer dementia (clinicopathologic diagnosis), Count: 1
+Condition: Hypertensive cardiovascular disease; clinical history of myocardial infarct, Count: 1
+Condition: Anxiety disorder, Count: 1
+Condition: Metastatic anaplastic thyroid carcinoma, Count: 1
+Condition: Schizophrenia; reported previous suicide attempts, Count: 1
+Condition: Chronic pain; major depressive disorder; schizoaffective disorder; bipolar type; asthma; class 2 obesity, Count: 1
+Condition: Hypertensive cardiovascular disease; chronic obstructive pulmonary disease, Count: 1
+Condition: Obsessive compulsive disorder; anxiety, Count: 1
+Condition: Major depressive disorder; recurrent severe; Anxiety disorder, Count: 1
+Condition: Multiple stressors to include COVID-19 pandemic, Count: 1
+Condition: Hypertension; obesity; chronic pain; anxiety; depression; insomnia; superficial incised wounds of wrists, Count: 1
+Condition: Recurrent major depression, Count: 1
+Condition: Depression; per report, Count: 1
+Condition: Sharp force injuries of abdomen; major depressive disorder with recent suicide attempt; alcohol use disorder; opiate use disorder; benzodiazepine use disorder, Count: 1
+Condition: Methamphetamine toxicity; Bipolar disorder with multiple psychiatric holds, Count: 1
+Condition: Depression with prior suicide attempts; bipolar 1 disorder. methamphetamine use disorder, Count: 1
+Condition: Severe ethanol use disorder; depression; generalized anxiety disorder; essential hypertension; atherosclerotic cardiovascular disease, Count: 1
+Condition: Bipolar disorder with recent suicidal ideation, Count: 1
+Condition: Paranoid schizophrenia, Count: 1
+Condition: Gastroesophegeal junction adenocarcinoma; hypertensive and atherosclerotic cardiovascular disease; chronic obstructive pulmonary disease, Count: 1
+Condition: Major depressive disorder; postpartum onset with psychotic features; suicidal behavior with attempted self injury, Count: 1
+Condition: Persistent depressive disorder with intermittent major depressive episodes, Count: 1
+Condition: Depression; obsessive compulsive disorder, Count: 1
+Condition: Generalized anxiety disorder; adjustment disorder with depressed mood; chronic pain, Count: 1

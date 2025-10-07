@@ -1,0 +1,77 @@
+Unique Resident Cities (Alphabetical Order):
+City: Alviso, Count: 2
+City: Antioch, Count: 1
+City: Aptos, Count: 2
+City: Bakersfield, Count: 1
+City: Berkeley, Count: 1
+City: Campbell, Count: 31
+City: Carmel, Count: 1
+City: Carson City, Count: 1
+City: Clearlake, Count: 1
+City: Cupertino, Count: 34
+City: Danville, Count: 2
+City: East Palo Alto, Count: 2
+City: El Granada, Count: 1
+City: Elk Grove, Count: 1
+City: Farmersville, Count: 1
+City: Fayetteville, Count: 1
+City: Foshan, Count: 1
+City: Fremont, Count: 7
+City: Gilroy, Count: 32
+City: Guadalupe, Count: 1
+City: Guamuchil; Sinaloa Mex, Count: 1
+City: Hayward, Count: 3
+City: Helena, Count: 1
+City: Houston, Count: 1
+City: Jacksonville, Count: 1
+City: Las Vegas, Count: 1
+City: Lathrop, Count: 1
+City: Laval, Count: 1
+City: Los Altos, Count: 19
+City: Los Altos Hills, Count: 3
+City: Los Banos, Count: 2
+City: Los Gatos, Count: 23
+City: Marina, Count: 1
+City: Milpitas, Count: 29
+City: Monte Sereno, Count: 3
+City: Monterey, Count: 1
+City: Morgan Hill, Count: 35
+City: Mountain View, Count: 42
+City: N/A, Count: 82
+City: Nairobi; Kenya, Count: 1
+City: Newark, Count: 1
+City: Newbury Park, Count: 1
+City: Oakland, Count: 2
+City: Orinda, Count: 1
+City: Pacific Grove, Count: 2
+City: Palo Alto, Count: 46
+City: Phoenix, Count: 1
+City: Portola Valley, Count: 1
+City: Redwood City, Count: 3
+City: Roseville, Count: 1
+City: Rural Gilroy, Count: 1
+City: Sacramento, Count: 1
+City: Salinas, Count: 3
+City: San Carlos, Count: 1
+City: San Diego, Count: 1
+City: San Francisco, Count: 6
+City: San Jose, Count: 577
+City: San Lorenzo, Count: 1
+City: San Luis Obispo, Count: 1
+City: San Martin, Count: 6
+City: San Mateo, Count: 1
+City: San Rafael, Count: 1
+City: Santa Clara, Count: 66
+City: Santa Cruz, Count: 3
+City: Saratoga, Count: 24
+City: Seattle, Count: 1
+City: Sonora, Count: 1
+City: Stanford, Count: 7
+City: Sunnyvale, Count: 78
+City: Topanga, Count: 1
+City: Tracy, Count: 1
+City: Twain Harte, Count: 1
+City: Union City, Count: 2
+City: Viluppuran; Tamilnadu, Count: 1
+City: Walnut Creek, Count: 1
+City: Watsonville, Count: 2

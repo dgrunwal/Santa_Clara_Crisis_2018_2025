@@ -1,0 +1,134 @@
+Resident Zip Counts (Highest to Lowest):
+Zip Code: No Known Zip, City: N/A, Count: 82
+Zip Code: 95112, City: San Jose, Count: 48
+Zip Code: 95111, City: San Jose, Count: 36
+Zip Code: 95037, City: Morgan Hill, Count: 35
+Zip Code: 95127, City: San Jose, Count: 35
+Zip Code: 95136, City: San Jose, Count: 34
+Zip Code: 95014, City: Cupertino, Count: 34
+Zip Code: 95020, City: Gilroy, Count: 32
+Zip Code: 95123, City: San Jose, Count: 31
+Zip Code: 95008, City: Campbell, Count: 31
+Zip Code: 95051, City: Santa Clara, Count: 30
+Zip Code: 95035, City: Milpitas, Count: 28
+Zip Code: 95122, City: San Jose, Count: 28
+Zip Code: 94086, City: Sunnyvale, Count: 28
+Zip Code: 95125, City: San Jose, Count: 27
+Zip Code: 95124, City: San Jose, Count: 27
+Zip Code: 95128, City: San Jose, Count: 26
+Zip Code: 95070, City: Saratoga, Count: 24
+Zip Code: 95120, City: San Jose, Count: 24
+Zip Code: 95117, City: San Jose, Count: 24
+Zip Code: 94087, City: Sunnyvale, Count: 24
+Zip Code: 95118, City: San Jose, Count: 22
+Zip Code: 95050, City: Santa Clara, Count: 22
+Zip Code: 94301, City: Palo Alto, Count: 22
+Zip Code: 95148, City: San Jose, Count: 22
+Zip Code: 95126, City: San Jose, Count: 21
+Zip Code: 95110, City: San Jose, Count: 20
+Zip Code: 95129, City: San Jose, Count: 18
+Zip Code: 95116, City: San Jose, Count: 17
+Zip Code: 95121, City: San Jose, Count: 17
+Zip Code: 95131, City: San Jose, Count: 17
+Zip Code: 95132, City: San Jose, Count: 16
+Zip Code: 95133, City: San Jose, Count: 16
+Zip Code: 94043, City: Mountain View, Count: 15
+Zip Code: 95032, City: Los Gatos, Count: 15
+Zip Code: 94040, City: Mountain View, Count: 15
+Zip Code: 95054, City: Santa Clara, Count: 14
+Zip Code: 94306, City: Palo Alto, Count: 13
+Zip Code: 94089, City: Sunnyvale, Count: 13
+Zip Code: 95135, City: San Jose, Count: 13
+Zip Code: 94085, City: Sunnyvale, Count: 13
+Zip Code: 94041, City: Mountain View, Count: 12
+Zip Code: 94022, City: Los Altos, Count: 11
+Zip Code: 95134, City: San Jose, Count: 11
+Zip Code: 94303, City: Palo Alto, Count: 9
+Zip Code: 95138, City: San Jose, Count: 9
+Zip Code: 94024, City: Los Altos, Count: 8
+Zip Code: 94305, City: Stanford, Count: 7
+Zip Code: 95046, City: San Martin, Count: 6
+Zip Code: 95130, City: San Jose, Count: 6
+Zip Code: 95030, City: Los Gatos, Count: 5
+Zip Code: 94538, City: Fremont, Count: 5
+Zip Code: 95119, City: San Jose, Count: 5
+Zip Code: 95139, City: San Jose, Count: 3
+Zip Code: 95033, City: Los Gatos, Count: 3
+Zip Code: 94022, City: Los Altos Hills, Count: 3
+Zip Code: 95030, City: Monte Sereno, Count: 3
+Zip Code: 95003, City: Aptos, Count: 2
+Zip Code: 94303, City: East Palo Alto, Count: 2
+Zip Code: 94134, City: San Francisco, Count: 2
+Zip Code: 93635, City: Los Banos, Count: 2
+Zip Code: 95060, City: Santa Cruz, Count: 2
+Zip Code: 94555, City: Fremont, Count: 2
+Zip Code: 94304, City: Palo Alto, Count: 2
+Zip Code: 95076, City: Watsonville, Count: 2
+Zip Code: 93950, City: Pacific Grove, Count: 2
+Zip Code: 95002, City: Alviso, Count: 2
+Zip Code: 94587, City: Union City, Count: 2
+Zip Code: 94061, City: Redwood City, Count: 2
+Zip Code: 93905, City: Salinas, Count: 1
+Zip Code: 94563, City: Orinda, Count: 1
+Zip Code: No Known Zip, City: Nairobi; Kenya, Count: 1
+Zip Code: 94618, City: Oakland, Count: 1
+Zip Code: 94580, City: San Lorenzo, Count: 1
+Zip Code: 93308, City: Bakersfield, Count: 1
+Zip Code: 95008, City: San Jose, Count: 1
+Zip Code: 89701, City: Carson City, Count: 1
+Zip Code: 93933, City: Marina, Count: 1
+Zip Code: No Known Zip, City: San Jose, Count: 1
+Zip Code: 93434, City: Guadalupe, Count: 1
+Zip Code: 95422, City: Clearlake, Count: 1
+Zip Code: 90290, City: Topanga, Count: 1
+Zip Code: 93907, City: Salinas, Count: 1
+Zip Code: 94063, City: Redwood City, Count: 1
+Zip Code: 93401, City: San Luis Obispo, Count: 1
+Zip Code: 94545, City: Hayward, Count: 1
+Zip Code: 94596, City: Walnut Creek, Count: 1
+Zip Code: 94506, City: Danville, Count: 1
+Zip Code: 95065, City: Santa Cruz, Count: 1
+Zip Code: 93912, City: Salinas, Count: 1
+Zip Code: 94602, City: Oakland, Count: 1
+Zip Code: 94560, City: Newark, Count: 1
+Zip Code: 94707, City: Berkeley, Count: 1
+Zip Code: 77092, City: Houston, Count: 1
+Zip Code: 95758, City: Elk Grove, Count: 1
+Zip Code: 95037, City: Milpitas, Count: 1
+Zip Code: 94403, City: San Mateo, Count: 1
+Zip Code: 95141, City: San Jose, Count: 1
+Zip Code: 94526, City: Danville, Count: 1
+Zip Code: 91320, City: Newbury Park, Count: 1
+Zip Code: 95113, City: San Jose, Count: 1
+Zip Code: 94541, City: Hayward, Count: 1
+Zip Code: 94028, City: Portola Valley, Count: 1
+Zip Code: 95828, City: Sacramento, Count: 1
+Zip Code: 32224, City: Jacksonville, Count: 1
+Zip Code: 94130, City: San Francisco, Count: 1
+Zip Code: 94118, City: San Francisco, Count: 1
+Zip Code: 94901, City: San Rafael, Count: 1
+Zip Code: 95661, City: Roseville, Count: 1
+Zip Code: 89134, City: Las Vegas, Count: 1
+Zip Code: 95383, City: Twain Harte, Count: 1
+Zip Code: 94544, City: Hayward, Count: 1
+Zip Code: 94109, City: San Francisco, Count: 1
+Zip Code: 94531, City: Antioch, Count: 1
+Zip Code: No Known Zip, City: Foshan, Count: 1
+Zip Code: 94117, City: San Francisco, Count: 1
+Zip Code: 93923, City: Carmel, Count: 1
+Zip Code: 85028, City: Phoenix, Count: 1
+Zip Code: No Known Zip, City: Laval, Count: 1
+Zip Code: 59602, City: Helena, Count: 1
+Zip Code: 95377, City: Tracy, Count: 1
+Zip Code: 93940, City: Monterey, Count: 1
+Zip Code: 95370, City: Sonora, Count: 1
+Zip Code: 94070, City: San Carlos, Count: 1
+Zip Code: 94018, City: El Granada, Count: 1
+Zip Code: No Known Zip, City: Guamuchil; Sinaloa Mex, Count: 1
+Zip Code: 72703, City: Fayetteville, Count: 1
+Zip Code: 93223, City: Farmersville, Count: 1
+Zip Code: 95330, City: Lathrop, Count: 1
+Zip Code: 92154, City: San Diego, Count: 1
+Zip Code: No Known Zip, City: Viluppuran; Tamilnadu, Count: 1
+Zip Code: 95023, City: Rural Gilroy, Count: 1
+Zip Code: 98115, City: Seattle, Count: 1

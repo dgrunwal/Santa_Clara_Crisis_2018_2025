@@ -1,0 +1,179 @@
+Data Project with Polars
+
+The intent of this project is so we might learn some things that can help residence and staff stop this silent plague that destroys the spirit of our citizens in Santa Clara county, California.  In light of Supervisor Ellenberg's community address 10/6 shared the data with her office.  The federal cuts planned for HR1 will impact crisis mobile services in Santa Clara county.
+
+The data is drawn from January 1, 2018 to current, related to deaths that occurred in the County of Santa Clara under the Medical Examiner-Coroner’s jurisdiction:
+
+https://data.sccgov.org/Health/Medical-Examiner-Coroner-Suicide-Deaths-dataset/aw9t-m5w4/about_data
+
+Surprising to see only 2 of 82 suicides total that listed only "depression" as a contributing factor had no resident city or listed as N/A.  This suggests the idea that citizens without an established residence are committing suicide simply isn't the case here.  It might be an opportunity to offer early at home help in addition to the 988 number.
+
+The fact that over 68% of suicides have no listed "other conditions" might be an opportunity to see what patterns can be gleaned from this group.  
+
+Is the mental healthcare working for citizens with no listed residence?  It may be that the data describes other mental afflictions e.g., bipolar, schizophrenia as more indicative of suicide.
+
+More surprising is out of the total 1223 suicides, 829 or 68% are listed as having no contributing factors listed in the county medical coroner report!  The other 394 suicides have a mishmash of bipolar, medical trauma, or other factors.  As far as the cities are concerned, San Jose leads the way in reported suicides. 
+
+Additional findings
+
+As budget cuts are being examined in Monday's Zoom meeting I wanted to share more analysis regarding the importance of funds for mental health treatment in particular suicide programs in our county.  Speaking with an experienced psychological nurse last week, we came to the conclusion that federal cuts in this area would simply be human cruelty.  The QPR training I recently took was very good and dispelled many misconceptions about suicide.  The internet might be an effective way to reach persons afflicted.  We might check existing programs in the cities and coordinate their experiences to deliver inexpensive messaging that people matter.
+
+I recently attended a caregivers seminar hosted by Tina Wong-Erling at the City of Campbell which was phenomenal - and pointed out some daunting statistics for the aged.  Seems our culture does not do as a good job with handling people who are needing mental health help. The data appears to show that in our county suicide has less to do with the "Other Significant Factors" than with age, race and social isolation.  The average suicide age the from 2018-2025 was 48 years old.  White males lead the list. (See footnote [1]).  Gathering data on those attempting or failing suicide might give a fuller picure of the opportunities we miss and where intervention might be best served.  Perhaps we can get more out of our current programs and really see where intervention is helping.
+ 
+Basic themes of "Other Significant Condition" when listed which is only 30% of the suicides which leave the larger majority *without* any significant conditions listed? Which opens the question, why are people committing suicide in Santa Clara County associated with a residence, yet give otherwise no outward signs recorded by the Medical Examiner?  
+Are we missing an opportunity to reach people in their homes?  Have we done enough to bring community attention to this bad outcome that primarily affects the living?  
+If the Center for Suicide Prevention puts the number effected by one suicide at 135  https://www.suicideinfo.ca/how-many-people-are-affected-by-one-suicide/ and this trend continues in our county over the next decade we can expect over 2400 suicides in our county alone.  The total number of living affected will be 324,000 persons in our 1,291.1 square mile county!  
+
+Our county currently has around 1.9 million souls which means one in six residents will have been effected by a suicide.  This is an unhealthy trend and we should do more to figure out why the vast majority of suicides currently have no known cause in our county.  It has become the stealth killer because it leaves the living with a serious mental burden.  We should be collecting more information, particularly if the suicide victim had a close relative or friend who died of suicide.  This might give more insight as to why so many suicides in our county have no signification reason listed.
+
+I discussed these findings with an experienced psychotherapy nurse living near my in-law's retirement community with many years working on the issue and triaging with suicide patients and she confirmed that suicides with no significant known causes may be because the people hide the depression and never get treatment.  She mentioned one helpful technique was to have t-shirts that say "You Matter" or have the 988 help number displayed can help spread the word.  Events can help spread the word.  Events and coordinated outreach programs (flyers) that can reach addresses might help get the word out.  
+
+The number of people who reach out for assistance is far greater than the recorded suicides in our county.  
+
+Depression is a key and if people are in groups it can help.  The mind's interpretive lens is key, how thoughts are processed have a direct impact on suicidal victims.  Also if someone in the family is a suicide, there is a higher likelihood of a relation committing suicide.  Alarmingly, research shows a significant increase in the risk of suicide and suicide attempts among the children of parents who have died by suicide. Specifically, children who have lost a parent to suicide are three times more likely to die by suicide and twice as likely to attempt suicide than children with two living parents.  (https://trauma.blog.yorku.ca/2025/04/parental-suicide-associated-with-higher-suicide-risk-for-children-research-shows/)
+
+Note, the contributing factors listed in footnote [2] below are only those listed and do not uncover reasons that apply to 70% of the recorded suicides in Santa Clara County.
+
+Due to impending budget cuts, it may be that our county programs are in danger of being cut which will be catastrophic to the well-being of the special place we call home. 
+
+
+Citations/Research
+
+[1]
+Race Statistics Report for Santa Clara County 2018-2025
+============================================================
+
+Total Records: 1223
+
+Race: White
+  Count: 596
+  Percentage: 48.73%
+  Average Age: 54.4
+------------------------------------------------------------
+Race: Asian
+  Count: 297
+  Percentage: 24.28%
+  Average Age: 45.6
+------------------------------------------------------------
+Race: Hispanic/Latino
+  Count: 235
+  Percentage: 19.22%
+  Average Age: 38.4
+------------------------------------------------------------
+Race: BlackAfricanAmerican
+  Count: 29
+  Percentage: 2.37%
+  Average Age: 37.0
+------------------------------------------------------------
+Race: Other
+  Count: 28
+  Percentage: 2.29%
+  Average Age: 30.5
+------------------------------------------------------------
+Race: OtherPacificIslander
+  Count: 14
+  Percentage: 1.14%
+  Average Age: 40.1
+------------------------------------------------------------
+Race: Asian; White
+  Count: 7
+  Percentage: 0.57%
+  Average Age: 36.7
+------------------------------------------------------------
+Race: Pacific Islander / Native Hawaiian
+  Count: 3
+  Percentage: 0.25%
+  Average Age: 46.3
+------------------------------------------------------------
+Race: Unknown
+  Count: 3
+  Percentage: 0.25%
+  Average Age: 31.7
+------------------------------------------------------------
+Race: Hispanic/Latino; White
+  Count: 3
+  Percentage: 0.25%
+  Average Age: 38.0
+------------------------------------------------------------
+Race: American Indian
+  Count: 3
+  Percentage: 0.25%
+  Average Age: 37.7
+------------------------------------------------------------
+Race: American Indian / Alaskan Native
+  Count: 2
+  Percentage: 0.16%
+  Average Age: 50.5
+------------------------------------------------------------
+Race: BlackAfricanAmerican; Hispanic/Latino; White
+  Count: 1
+  Percentage: 0.08%
+  Average Age: 51.0
+------------------------------------------------------------
+Race: American Indian / Alaskan Native; Asian; Hispanic/Latino; White
+  Count: 1
+  Percentage: 0.08%
+  Average Age: 23.0
+------------------------------------------------------------
+Race: Hispanic/Latino; Other; Pacific Islander / Native Hawaiian; White
+  Count: 1
+  Percentage: 0.08%
+  Average Age: 13.0
+------------------------------------------------------------
+
+[2]
+
+After reviewing the list of "Other Significant Conditions" associated with suicide victims in Santa Clara County 2018-2025, here are some common themes that emerge:
+
+**Mental Health Disorders (Dominant Theme):**
+
+*   **Depression:** Major Depressive Disorder (recurrent, severe, with psychotic features), Depressive Disorder (unspecified), Postpartum Depression, Persistent Depressive Disorder. This is *by far* the most prevalent theme.
+*   **Bipolar Disorder:** Bipolar I and II Disorders, often with psychotic features or recent depressed episodes.
+*   **Anxiety Disorders:** Generalized Anxiety Disorder, Panic Disorder, Social Anxiety Disorder, often co-occurring with depression.
+*   **Schizophrenia and Schizoaffective Disorder:** Often with bipolar features, prior suicide attempts, or other co-occurring mental health conditions.
+*   **Post-Traumatic Stress Disorder (PTSD)**
+*   **Adjustment Disorders:** Often with mixed anxiety and depressed mood, or disturbance of conduct, frequently related to recent stressors.
+*   **Obsessive-Compulsive Disorder (OCD)**
+*   **Personality Disorders:** Borderline Personality Disorder (reported or suspected)
+*   **Neuropsychiatric Disorders:** Often unspecified, and often associated with cognitive impairment.
+
+**Substance Use Disorders:**
+
+*   **Alcohol Use Disorder (Chronic Ethanol Use):** Often with ketoacidosis, hepatic cirrhosis, or other medical complications.
+*   **Opioid Use Disorder:** Often in combination with other substances.
+*   **Benzodiazepine Use Disorder**
+*   **Stimulant Use Disorder (Methamphetamine, Cocaine):** Often with psychosis or cardiovascular complications.
+*   **Polysubstance Use:** Multiple substances contributing to toxicity or adverse effects.
+
+**Physical Health Conditions:**
+
+*   **Cardiovascular Disease:** Hypertensive Cardiovascular Disease, Atherosclerotic Cardiovascular Disease, Coronary Artery Disease, Atrial Fibrillation, Heart Failure.
+*   **Chronic Pain:** Often associated with multiple comorbidities and depression.
+*   **Cancer:** Various types, including metastatic cancers, which likely contribute to depression and distress.
+*   **Chronic Obstructive Pulmonary Disease (COPD)**
+*   **Diabetes Mellitus (Type 1 and Type 2):** Often with diabetic nephropathy.
+*   **Obesity:** Class 1, 2, or 3 obesity is frequently mentioned.
+*   **Chronic Kidney Disease**
+*   **Neurological Disorders:** Parkinson's Disease, Huntington's Disease, Neurodegenerative Disease, Multiple Sclerosis, Traumatic Brain Injury, Prior Stroke
+
+**Other Stressors & Factors:**
+
+*   **Recent Suicidal Ideation/Attempts:** A critical indicator of imminent risk.
+*   **Insomnia**
+*   **Recent Life Stressors:** Bereavement, financial stress, legal stress, the COVID-19 pandemic.
+*   **Advanced Age**
+*   **History of Suicide Attempts:** A strong predictor of future attempts.
+*   **Self-Inflicted Injuries:** Incised wounds of wrists, neck, or abdomen, gunshot wounds.
+
+**Key Observations:**
+
+*   **Comorbidity:** The presence of multiple co-occurring conditions (both mental and physical) is *extremely* common.
+*   **Cardiovascular and Respiratory Diseases:** Are surprisingly common alongside mental health conditions.
+*   **Loss and Grief:** Recent bereavement is noted in several cases.
+*   **Substance use in combination with other ailments:** Is a factor, especially alcohol and stimulants.
+*   **Mental Health Treatment:** No information about whether these individuals were receiving mental health treatment is included, but it would be a crucial factor to consider.
+
+This analysis highlights the complex interplay of mental health, physical health, substance use, and life stressors in individuals at risk of suicide.
+
+
+

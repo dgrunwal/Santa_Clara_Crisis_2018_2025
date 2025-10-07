@@ -1,0 +1,113 @@
+Missing Data Report for coroner_data.csv
+================================================================================
+
+Total Rows: 1223
+
+Column: Incident Location
+  Null values: 0
+  Empty strings: 0
+  'N/A' values: 986
+  Total Missing: 986 (80.62%)
+--------------------------------------------------------------------------------
+Column: Other Significant Condition
+  Null values: 1
+  Empty strings: 0
+  'N/A' values: 193
+  Total Missing: 194 (15.86%)
+--------------------------------------------------------------------------------
+Column: Resident Zip
+  Null values: 88
+  Empty strings: 0
+  'N/A' values: 0
+  Total Missing: 88 (7.20%)
+--------------------------------------------------------------------------------
+Column: Resident City
+  Null values: 0
+  Empty strings: 0
+  'N/A' values: 82
+  Total Missing: 82 (6.70%)
+--------------------------------------------------------------------------------
+Column: Latitude
+  Null values: 5
+  Empty strings: 0
+  'N/A' values: 0
+  Total Missing: 5 (0.41%)
+--------------------------------------------------------------------------------
+Column: Longitude
+  Null values: 5
+  Empty strings: 0
+  'N/A' values: 0
+  Total Missing: 5 (0.41%)
+--------------------------------------------------------------------------------
+Column: Death City
+  Null values: 0
+  Empty strings: 0
+  'N/A' values: 4
+  Total Missing: 4 (0.33%)
+--------------------------------------------------------------------------------
+Column: Incident City
+  Null values: 0
+  Empty strings: 0
+  'N/A' values: 4
+  Total Missing: 4 (0.33%)
+--------------------------------------------------------------------------------
+Column: Incident Zip
+  Null values: 4
+  Empty strings: 0
+  'N/A' values: 0
+  Total Missing: 4 (0.33%)
+--------------------------------------------------------------------------------
+Column: Death Zip
+  Null values: 3
+  Empty strings: 0
+  'N/A' values: 0
+  Total Missing: 3 (0.25%)
+--------------------------------------------------------------------------------
+Column: Case Number
+  Null values: 0
+  Empty strings: 0
+  'N/A' values: 0
+  Total Missing: 0 (0.00%)
+--------------------------------------------------------------------------------
+Column: Case Status
+  Null values: 0
+  Empty strings: 0
+  'N/A' values: 0
+  Total Missing: 0 (0.00%)
+--------------------------------------------------------------------------------
+Column: Manner of Death
+  Null values: 0
+  Empty strings: 0
+  'N/A' values: 0
+  Total Missing: 0 (0.00%)
+--------------------------------------------------------------------------------
+Column: Age
+  Null values: 0
+  Empty strings: 0
+  'N/A' values: 0
+  Total Missing: 0 (0.00%)
+--------------------------------------------------------------------------------
+Column: Race
+  Null values: 0
+  Empty strings: 0
+  'N/A' values: 0
+  Total Missing: 0 (0.00%)
+--------------------------------------------------------------------------------
+Column: Gender
+  Null values: 0
+  Empty strings: 0
+  'N/A' values: 0
+  Total Missing: 0 (0.00%)
+--------------------------------------------------------------------------------
+Column: Death Date
+  Null values: 0
+  Empty strings: 0
+  'N/A' values: 0
+  Total Missing: 0 (0.00%)
+--------------------------------------------------------------------------------
+Column: Cause of Death
+  Null values: 0
+  Empty strings: 0
+  'N/A' values: 0
+  Total Missing: 0 (0.00%)
+--------------------------------------------------------------------------------
