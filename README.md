@@ -40,6 +40,7 @@ Temporal Trends
 •	2023: 138 deaths
 •	2024: 168 deaths
 •	2025: 97 deaths (partial year)
+
 Analysis Scripts
 The Jupyter notebook (SC_Coroner_Analysis.ipynb) contains multiple analysis cells that generate:
 1.	Resident Zip Code Analysis - Identifies geographic distribution and residence status
@@ -47,6 +48,7 @@ The Jupyter notebook (SC_Coroner_Analysis.ipynb) contains multiple analysis cell
 3.	Temporal Analysis - Year-by-year death counts
 4.	Significant Conditions Analysis - Frequency analysis of documented contributing factors
 5.	Depression-Specific Analysis - Filtered datasets examining depression as a factor
+
 Generated Reports
 The analysis produces several text and CSV output files:
 •	resident_zip_counts.txt - Zip code distribution with city names
@@ -67,18 +69,24 @@ Intergenerational Risk
 Research indicates that children who lose a parent to suicide are:
 •	3x more likely to die by suicide
 •	2x more likely to attempt suicide (Source cited: York University trauma research blog)
-Community Impact Projection
+
+Impact 
+
 Using the Center for Suicide Prevention's estimate that each suicide affects 135 people:
 •	If current trends continue over the next decade: ~2,400 suicides expected
-•	324,000 county residents would be affected (approximately 1 in 6 people)
+•	324,000 county residents would be affected (approximately 1 in 6 people
+
 Recommendations
+
 1.	Enhanced Data Collection - Track family history of suicide for better pattern identification
 2.	Community Outreach - Coordinate programs across cities with proven messaging strategies
 3.	Early Intervention - Develop home-based support systems alongside 988 crisis line
 4.	Public Awareness - Use visible messaging ("You Matter" campaigns, 988 number displays)
 5.	QPR Training - Expand Question, Persuade, Refer suicide prevention training
 6.	Protect Funding - Maintain mental health crisis services despite federal budget pressures
-Usage
+
+Usage (install polars)
+
 To run the analysis:
 import polars as pl
 
